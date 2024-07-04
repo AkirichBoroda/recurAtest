@@ -1,0 +1,14 @@
+C:\Users\Viktor\Desktop\program lessons\HW\recurAtest\bin\Debug\net7.0\recurAtest.exe
+C:\Users\Viktor\Desktop\program lessons\HW\recurAtest\bin\Debug\net7.0\recurAtest.deps.json
+C:\Users\Viktor\Desktop\program lessons\HW\recurAtest\bin\Debug\net7.0\recurAtest.runtimeconfig.json
+C:\Users\Viktor\Desktop\program lessons\HW\recurAtest\bin\Debug\net7.0\recurAtest.dll
+C:\Users\Viktor\Desktop\program lessons\HW\recurAtest\bin\Debug\net7.0\recurAtest.pdb
+C:\Users\Viktor\Desktop\program lessons\HW\recurAtest\obj\Debug\net7.0\recurAtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\program lessons\HW\recurAtest\obj\Debug\net7.0\recurAtest.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\program lessons\HW\recurAtest\obj\Debug\net7.0\recurAtest.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\program lessons\HW\recurAtest\obj\Debug\net7.0\recurAtest.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\program lessons\HW\recurAtest\obj\Debug\net7.0\recurAtest.dll
+C:\Users\Viktor\Desktop\program lessons\HW\recurAtest\obj\Debug\net7.0\refint\recurAtest.dll
+C:\Users\Viktor\Desktop\program lessons\HW\recurAtest\obj\Debug\net7.0\recurAtest.pdb
+C:\Users\Viktor\Desktop\program lessons\HW\recurAtest\obj\Debug\net7.0\recurAtest.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\program lessons\HW\recurAtest\obj\Debug\net7.0\ref\recurAtest.dll
